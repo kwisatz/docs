@@ -1,6 +1,12 @@
 Configuration - Profiles
 ========================
 
+Profiles continue where suites left you off. Where suites allow you to run different 
+tests in their specific contexts, profiles allow you to run tests in different environments.
+
+One environment could be your local development environment, while another would be a contiuous integration
+environment, such as Travis or Jenkins.
+
 Custom Autoloading
 ------------------
 
